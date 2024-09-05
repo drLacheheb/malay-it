@@ -34,7 +34,7 @@ Please contact:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/malay-it.git
+    git clone https://github.com/drLacheheb/malay-it.git
     cd malay-it
     ```
 
